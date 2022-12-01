@@ -49,17 +49,18 @@
 
 ### Resources
 
-- [Python Documentation](https://docs.python.org/3/)
-- [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Bhargava (Book)
-- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (Book)
+- [Python Documentation](https://docs.python.org/3/) - Official Python documentation
+- [Python Tutorial](https://docs.python.org/3/tutorial/index.html) - Official Python tutorial
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Bhargava (Book) - A friendly introduction to algorithms
+- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (Book) - The bible of algorithms
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) by Abdul Bari (Video) (Recommended)
-- [YouTube Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) by MyCodeSchool (Video) (Recommended) (Beginner Friendly)
-- [Youtube Channel](https://www.youtube.com/@takeUforward/playlists) by takeUforward (Video) (Recommended) 
-- [GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) (Article)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/) (Article)
-- [HackerRank](https://www.hackerrank.com/domains/algorithms) (Practice Problems)
-- [LeetCode](https://leetcode.com/problemset/all/) (Practice Problems)
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) by MyCodeSchool (Video) (Recommended) (Beginner Friendly) 
+- [Youtube Channel](https://www.youtube.com/@takeUforward/playlists) by takeUforward (Video) (Recommended)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) (Article) - A comprehensive guide to algorithms
+- [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/) (Article) - A comprehensive guide to data structures
+- [HackerRank](https://www.hackerrank.com/domains/algorithms) (Practice Problems) - Practice problems for algorithms
+- [LeetCode](https://leetcode.com/problemset/all/) (Practice Problems) - Practice problems for interviews 
+- [Jovian](https://jovian.ai/learn/data-structures-and-algorithms-in-python) (Course) - A free course on data structures and algorithms in Python
 
 
 ### License
