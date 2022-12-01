@@ -56,8 +56,8 @@ def binary_search(array, target):
 | Binary Search | O(1) | O(log n) | O(log n) | O(1) | No | - | Array |
 
 ### References
-- [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search/) 
+- [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm) - Binary search algorithm
+- [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search/) - Binary Search
 
 ---
 
@@ -102,8 +102,8 @@ def linear_search(array, target):
 
 ### References
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/linear-search/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Linear_search) - Linear search algorithm
+- [GeeksforGeeks](https://www.geeksforgeeks.org/linear-search/) - Linear Search
 
 
 ---
