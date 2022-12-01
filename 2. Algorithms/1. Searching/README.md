@@ -5,6 +5,7 @@
 - [Binary Search](#binary-search)
 - [Linear Search](#linear-search)
 
+---
 
 ## Binary Search
 
@@ -57,7 +58,53 @@ def binary_search(array, target):
 ### References
 - [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search/) 
-- [GitHub](www.github.com/TheAlgorithms/Python/blob/master/searching/binary_search.py)
 
+---
 
 ## Linear Search
+
+Linear search is a searching algorithm that finds the position of a target value within an array. Linear search sequentially checks each element of the array until a match is found or the whole array has been searched. This type of search algorithm is very inefficient, with time complexity of O(n). However, it works on any type of array.
+
+### Algorithm
+
+1. Set the index to 0.
+2. If the index is equal to the length of the array, the target is not in the array and the search ends.
+3. If the element at the index is the target, the search is done.
+4. Increment the index and go to step 2.
+5. If the search ends, the target is not in the array.
+6. Return the index of the target.
+7. Return -1 if the target is not in the array.
+
+### Pseudocode
+
+```python
+def linear_search(array, target):
+    for index, element in enumerate(array):
+        if element == target:
+            return index
+    return -1
+```
+
+### Example
+
+```python
+>>> linear_search([1, 2, 3, 4, 5], 3)
+2
+>>> linear_search([1, 2, 3, 4, 5], 6)
+-1
+```
+
+### Complexity
+
+| Name | Best | Average | Worst | Memory | Stable | Comments | Data Structure |
+| ---- | ---- | ------- | ----- | ------ | ------ | -------- | -------------- |
+| Linear Search | O(1) | O(n) | O(n) | O(1) | No | - | Array |
+
+### References
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/linear-search/)
+
+
+---
+
