@@ -64,7 +64,7 @@
 
 ### License
 
-This project uses the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
+This project uses the [MIT License](LICENSE)
 
 ### Contact
 
